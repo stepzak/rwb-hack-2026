@@ -1,0 +1,9 @@
+{
+  "name": "compositional_share_mae",
+  "kind": "tree",
+  "target": "share",
+  "features": "relative",
+  "days": 56,
+  "trees": 800,
+  "depth": 7
+}

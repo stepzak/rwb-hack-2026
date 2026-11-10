@@ -1,0 +1,20 @@
+{
+  "executed_at_utc": "2026-11-10T17:54:43.798482+00:00",
+  "selected_iteration": 39,
+  "rows": 8000,
+  "device": "cuda",
+  "inference_seconds": 9.554,
+  "max_absolute_error": 4.656612873077393e-10,
+  "L1_relative_error": 2.4397078509176668e-17,
+  "canonical_sha256": "b380f83722818e26373a53f19bf89ef374c061982dc8c76cede948a65e6cf20d",
+  "all_ids_in_test_order": true,
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "catboost": "1.2.10",
+    "lightgbm": "4.7.0",
+    "torch": "2.15.0+cu132"
+  },
+  "python": "3.14.4"
+}

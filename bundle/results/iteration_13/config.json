@@ -1,0 +1,12 @@
+{
+  "name": "compositional_share_lq_recent42",
+  "kind": "tree",
+  "target": "share",
+  "features": "relative",
+  "days": 42,
+  "trees": 800,
+  "depth": 8,
+  "lr": 0.04,
+  "loss": "Lq:q=1.1",
+  "half_life": 14
+}

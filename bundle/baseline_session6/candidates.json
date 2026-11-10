@@ -1,0 +1,10 @@
+{
+  "session6": {
+    "iteration": 86,
+    "outer": {
+      "mode": "none",
+      "weight": 1,
+      "calibration": {}
+    }
+  }
+}

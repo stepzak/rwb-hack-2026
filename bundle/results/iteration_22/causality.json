@@ -1,0 +1,51 @@
+[
+  {
+    "origin": "2025-09-20 10:30:00",
+    "last_train_label": "2025-09-20 06:00:00",
+    "train_rows": 1933,
+    "family": "fourier",
+    "transform_fit_before": "2025-09-20 06:30:00"
+  },
+  {
+    "origin": "2025-09-27 10:30:00",
+    "last_train_label": "2025-09-27 06:00:00",
+    "train_rows": 2269,
+    "family": "fourier",
+    "transform_fit_before": "2025-09-27 06:30:00"
+  },
+  {
+    "origin": "2025-10-04 10:30:00",
+    "last_train_label": "2025-10-04 06:00:00",
+    "train_rows": 2605,
+    "family": "fourier",
+    "transform_fit_before": "2025-10-04 06:30:00"
+  },
+  {
+    "origin": "2025-10-11 10:30:00",
+    "last_train_label": "2025-10-11 06:00:00",
+    "train_rows": 2688,
+    "family": "fourier",
+    "transform_fit_before": "2025-10-11 06:30:00"
+  },
+  {
+    "origin": "2025-10-18 10:30:00",
+    "last_train_label": "2025-10-18 06:00:00",
+    "train_rows": 2688,
+    "family": "fourier",
+    "transform_fit_before": "2025-10-18 06:30:00"
+  },
+  {
+    "origin": "2025-10-25 10:30:00",
+    "last_train_label": "2025-10-25 06:00:00",
+    "train_rows": 2688,
+    "family": "fourier",
+    "transform_fit_before": "2025-10-25 06:30:00"
+  },
+  {
+    "origin": "2025-11-01 10:30:00",
+    "last_train_label": "2025-11-01 06:00:00",
+    "train_rows": 2688,
+    "family": "fourier",
+    "transform_fit_before": "2025-11-01 06:30:00"
+  }
+]

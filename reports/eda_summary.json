@@ -1,0 +1,78 @@
+{
+  "rows": 4630000,
+  "routes": 1000,
+  "times": 4630,
+  "start": "2025-07-28 00:00:00",
+  "end": "2025-11-01 10:30:00",
+  "schema": "route_id: int64\ntimestamp: timestamp[ns]\nstatus_1: int64\nstatus_2: int64\nstatus_3: int64\nstatus_4: int64\nstatus_5: int64\nstatus_6: int64\ntarget_1h: int64\n-- schema metadata --\npandas: '{\"index_columns\": [{\"kind\": \"range\", \"name\": null, \"start\": 0, \"' + 1298",
+  "nulls": {
+    "route_id": 0,
+    "timestamp": 0,
+    "target_1h": 0,
+    "status_1": 0,
+    "status_2": 0,
+    "status_3": 0,
+    "status_4": 0,
+    "status_5": 0,
+    "status_6": 0
+  },
+  "duplicate_keys": 0,
+  "regular_30min": true,
+  "complete_panel": true,
+  "negative": {
+    "target_1h": 0,
+    "status_1": 0,
+    "status_2": 0,
+    "status_3": 0,
+    "status_4": 0,
+    "status_5": 0,
+    "status_6": 0
+  },
+  "zeros": {
+    "target_1h": 0.015084449244060475,
+    "status_1": 0.002472354211663067,
+    "status_2": 0.0020691144708423325,
+    "status_3": 0.07729805615550756,
+    "status_4": 0.0,
+    "status_5": 0.0,
+    "status_6": 0.0010403887688984882
+  },
+  "status6_gt4_share": 0.00125377969762419,
+  "train_through": "2025-10-03 23:30",
+  "top100_route_volume_share": 0.1743213407721844,
+  "naive_holdout": {
+    "persistence": {
+      "WAPE": 0.4660023097060733,
+      "Rbias": 0.0043823619067561905,
+      "score": 0.4703846716128295
+    },
+    "daily": {
+      "WAPE": 0.4651388305695341,
+      "Rbias": 0.002812606511414399,
+      "score": 0.4679514370809485
+    },
+    "weekly": {
+      "WAPE": 0.46882002321719085,
+      "Rbias": 0.004577725996458186,
+      "score": 0.473397749213649
+    }
+  },
+  "baseline0328_holdout": {
+    "WAPE": 0.32009029920008875,
+    "Rbias": -0.0013635244235125547,
+    "score": 0.3214538236236013
+  },
+  "baseline0328_daily_mean": 0.33830089282604664,
+  "baseline0328_weekly": [
+    {
+      "WAPE": 0.3180542703644691,
+      "Rbias": -0.010609088407599485,
+      "score": 0.3286633587720686
+    },
+    {
+      "WAPE": 0.3221845306965559,
+      "Rbias": 0.008146336615456825,
+      "score": 0.3303308673120127
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "selected_iteration": 39,
+  "selection": {
+    "iteration": 39,
+    "WAPE": 0.3172347093955469,
+    "Rbias": -0.001091005380626492,
+    "score": 0.3183257147761734,
+    "daily_score": 0.3350091639950611,
+    "daily_WAPE": 0.31732738708861113,
+    "improved_WAPE_days": 12,
+    "both_weeks_WAPE_improved": true,
+    "eligible": true
+  },
+  "selection_rule": "lowest mean daily official metric among candidates improving pooled score, pooled WAPE and WAPE in both weeks; at least 9/14 days improved",
+  "best_pooled_iteration": 31,
+  "best_pooled_score": 0.3172625029105078,
+  "baseline_session6": {
+    "WAPE": 0.3178266755292927,
+    "Rbias": -0.0013635244235125584,
+    "score": 0.3191901999528053,
+    "daily_score": 0.33603866180183856,
+    "daily_WAPE": 0.31792016706971965
+  },
+  "confirmed_public_session6": 0.326,
+  "candidate_public": 0.326,
+  "remaining_submissions": 0,
+  "iterations_used": 40,
+  "additional_iterations": 30,
+  "excluded_invalid_iterations": [],
+  "forecast_origin": "2025-11-01 10:30:00",
+  "limitation": "Repeated development holdout. User reports displayed final Public 0.326 and improvement of 0.0004 versus session6. Exact absolute scores unavailable. Public <0.322 not achieved.",
+  "public_result": {
+    "iteration": 39,
+    "score": 0.326,
+    "source": "User reported displayed Public 0.326, then clarified candidate39 improved session6 by 0.0004 on 2026-11-10",
+    "sha256": "b380f83722818e26373a53f19bf89ef374c061982dc8c76cede948a65e6cf20d",
+    "reported_decimal_places": 3,
+    "comparison_vs_session6": "improved by 0.0004 per user; both displayed as 0.326",
+    "goal_below_0322_achieved": false,
+    "improvement_vs_session6": 0.0004,
+    "exact_absolute_score": null
+  },
+  "public_goal_confirmed": false,
+  "candidate_public_exact": null,
+  "public_improvement_vs_session6": 0.0004,
+  "best_confirmed_public_iteration": 39
+}

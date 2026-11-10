@@ -1,0 +1,9 @@
+{
+  "name": "compositional_log_share_mae",
+  "kind": "tree",
+  "target": "log_share",
+  "features": "relative",
+  "days": 56,
+  "trees": 900,
+  "depth": 8
+}

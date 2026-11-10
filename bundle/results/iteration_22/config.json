@@ -1,0 +1,10 @@
+{
+  "name": "fourier_interactions_status",
+  "kind": "fourier",
+  "days": 56,
+  "daily": 4,
+  "weekly": 7,
+  "interactions": true,
+  "local_status": true,
+  "local_alpha": 500
+}

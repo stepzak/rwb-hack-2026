@@ -1,0 +1,27 @@
+{
+  "verified_files": 137,
+  "notebook_schema_valid": true,
+  "notebook_cell_syntax_valid": true,
+  "full_notebook_executed": false,
+  "independent_raw_labels_verified": 336000,
+  "independent_metrics": {
+    "WAPE": 0.3172347093955469,
+    "Rbias": -0.001091005380626492,
+    "score": 0.3183257147761734
+  },
+  "mean_daily_score": 0.3350091639950611,
+  "rows": 8000,
+  "all_ids_match": true,
+  "max_absolute_cpu_error": 0.03846756473649293,
+  "L1_relative_cpu_error": 7.076517778895727e-09,
+  "canonical_sha256": "b380f83722818e26373a53f19bf89ef374c061982dc8c76cede948a65e6cf20d",
+  "versions": {
+    "python": "3.14.5",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "torch": "2.15.0+cpu",
+    "sklearn": "1.9.1",
+    "catboost": "1.2.10",
+    "lightgbm": "4.7.0"
+  }
+}

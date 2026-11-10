@@ -1,0 +1,8 @@
+{
+  "name": "rolling_simplex_weekday_volume",
+  "kind": "ensemble",
+  "mode": "simplex",
+  "volume": "weekday",
+  "volume_shrink": 0.5,
+  "own_volume": true
+}

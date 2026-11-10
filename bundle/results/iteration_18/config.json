@@ -1,0 +1,8 @@
+{
+  "name": "dynamic_factor16_recent_status",
+  "kind": "factor",
+  "rank": 16,
+  "days": 42,
+  "local_status": true,
+  "local_alpha": 300
+}

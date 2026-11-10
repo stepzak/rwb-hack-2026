@@ -1,0 +1,15 @@
+{
+  "name": "tree_share_with_factor8",
+  "kind": "tree",
+  "target": "share",
+  "features": "relative",
+  "days": 56,
+  "trees": 900,
+  "depth": 8,
+  "augment": {
+    "kind": "factor",
+    "rank": 8,
+    "days": 56,
+    "local": false
+  }
+}

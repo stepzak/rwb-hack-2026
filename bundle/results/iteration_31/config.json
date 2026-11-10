@@ -1,0 +1,8 @@
+{
+  "name": "neural_compositional_level128",
+  "kind": "neural",
+  "width": 128,
+  "epochs": 18,
+  "days": 56,
+  "base": "level"
+}

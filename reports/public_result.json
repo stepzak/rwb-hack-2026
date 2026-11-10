@@ -1,0 +1,11 @@
+{
+  "iteration": 39,
+  "score": 0.326,
+  "source": "User reported displayed Public 0.326, then clarified candidate39 improved session6 by 0.0004 on 2026-11-10",
+  "sha256": "b380f83722818e26373a53f19bf89ef374c061982dc8c76cede948a65e6cf20d",
+  "reported_decimal_places": 3,
+  "comparison_vs_session6": "improved by 0.0004 per user; both displayed as 0.326",
+  "goal_below_0322_achieved": false,
+  "improvement_vs_session6": 0.0004,
+  "exact_absolute_score": null
+}

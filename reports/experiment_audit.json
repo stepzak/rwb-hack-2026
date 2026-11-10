@@ -1,0 +1,263 @@
+{
+  "iterations": 40,
+  "extra_iterations": 30,
+  "failed": [
+    8
+  ],
+  "invalid_excluded": [],
+  "verified_new_validation_labels": 10080000,
+  "iterations_audit": [
+    {
+      "iteration": 11,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3180122787792279
+    },
+    {
+      "iteration": 12,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3179740376762281
+    },
+    {
+      "iteration": 13,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3179278604816456
+    },
+    {
+      "iteration": 14,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31793126067586885
+    },
+    {
+      "iteration": 15,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3178309054658632
+    },
+    {
+      "iteration": 16,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.318018373386948
+    },
+    {
+      "iteration": 17,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31801837338694805
+    },
+    {
+      "iteration": 18,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31795494096261306
+    },
+    {
+      "iteration": 19,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.317965189072554
+    },
+    {
+      "iteration": 20,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3180183733869477
+    },
+    {
+      "iteration": 21,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31801837338694705
+    },
+    {
+      "iteration": 22,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31796621979177364
+    },
+    {
+      "iteration": 23,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31795533385982405
+    },
+    {
+      "iteration": 24,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31797960686552174
+    },
+    {
+      "iteration": 25,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31778302277478965
+    },
+    {
+      "iteration": 26,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3178434970261184
+    },
+    {
+      "iteration": 27,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31773687304368187
+    },
+    {
+      "iteration": 28,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3180108616379253
+    },
+    {
+      "iteration": 29,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31799854541560213
+    },
+    {
+      "iteration": 30,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3180153642820905
+    },
+    {
+      "iteration": 31,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3172625029105078
+    },
+    {
+      "iteration": 32,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31800876372836845
+    },
+    {
+      "iteration": 33,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31801483374411726
+    },
+    {
+      "iteration": 34,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31771148294153984
+    },
+    {
+      "iteration": 35,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3174619189258442
+    },
+    {
+      "iteration": 36,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31734165046676044
+    },
+    {
+      "iteration": 37,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3174363641100235
+    },
+    {
+      "iteration": 38,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3177521349740409
+    },
+    {
+      "iteration": 39,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.3183257147761734
+    },
+    {
+      "iteration": 40,
+      "rows": 344000,
+      "past_labels_verified": 336000,
+      "score": 0.31850862463808094
+    }
+  ],
+  "checkpoints": [
+    {
+      "iteration": 2,
+      "score": 0.32186110581013816,
+      "folder": "stepa_checkpoint_0.321861105810"
+    },
+    {
+      "iteration": 3,
+      "score": 0.32158205323467837,
+      "folder": "stepa_checkpoint_0.321582053234678"
+    },
+    {
+      "iteration": 5,
+      "score": 0.3213893036645789,
+      "folder": "stepa_checkpoint_0.321389303664579"
+    },
+    {
+      "iteration": 6,
+      "score": 0.3191901999528053,
+      "folder": "stepa_checkpoint_0.319190199952805"
+    },
+    {
+      "iteration": 7,
+      "score": 0.31834483390608176,
+      "folder": "stepa_checkpoint_0.318344833906082"
+    },
+    {
+      "iteration": 9,
+      "score": 0.3180183695867196,
+      "folder": "stepa_checkpoint_0.318018369586720"
+    },
+    {
+      "iteration": 11,
+      "score": 0.3180122787792279,
+      "folder": "stepa_checkpoint_0.318012278779228"
+    },
+    {
+      "iteration": 12,
+      "score": 0.3179740376762281,
+      "folder": "stepa_checkpoint_0.317974037676228"
+    },
+    {
+      "iteration": 13,
+      "score": 0.3179278604816456,
+      "folder": "stepa_checkpoint_0.317927860481646"
+    },
+    {
+      "iteration": 15,
+      "score": 0.3178309054658632,
+      "folder": "stepa_checkpoint_0.317830905465863"
+    },
+    {
+      "iteration": 25,
+      "score": 0.31778302277478965,
+      "folder": "stepa_checkpoint_0.317783022774790"
+    },
+    {
+      "iteration": 27,
+      "score": 0.31773687304368187,
+      "folder": "stepa_checkpoint_0.317736873043682"
+    },
+    {
+      "iteration": 31,
+      "score": 0.3172625029105078,
+      "folder": "stepa_checkpoint_0.317262502910508"
+    }
+  ],
+  "best_confirmed_public": 0.326,
+  "candidate_public": 0.326,
+  "public_goal_confirmed": false,
+  "goal_status": "40 attempts exhausted; Public improved by 0.0004 according to user; exact absolute score unavailable",
+  "raw_source_sha256": "300aecbe2d3dc28be03bff957ba56ab20c7fa8ceb81b0301822d4bf6473bd076"
+}

@@ -1,0 +1,26 @@
+{
+  "iteration": 6,
+  "new_iterations": 6,
+  "limit": 10,
+  "local_score": 0.3191901999528053,
+  "public_new": 0.326,
+  "public_reference": 0.328,
+  "checkpoint": "stepa_checkpoint_0.319190199952805",
+  "shape_weight": 0.49972590220122615,
+  "shape_source_iteration": 86,
+  "source_models_refitted": false,
+  "weight_fit_period": "2025-10-11..17",
+  "evaluation_period": "2025-10-18..31, daily 10:30, 112000 rows",
+  "reference_sha256": "a89b9b277796a4fc08d4900bc10185afbf1bfe6ec14e3e9a69985551c9018eed",
+  "limitation": "Repeatedly used development holdout; local improvement does not confirm Public <0.322.",
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "pyarrow": "26.0.1",
+    "scipy": "1.18.1",
+    "catboost": "1.2.10",
+    "lightgbm": "4.7.0",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0"
+  }
+}
