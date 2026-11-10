@@ -9,7 +9,6 @@ ROOT=Path(__file__).resolve().parents[1]
 if __name__=='__main__':
     path=ROOT/'notebooks/final_solution.ipynb'
     nb=nbformat.read(path,as_version=4)
-    # Отдельный временный kernelspec: пользовательские ядра не меняются.
     with tempfile.TemporaryDirectory(prefix='rwb-kernel-') as temp:
         kernel=Path(temp)/'rwb-final';kernel.mkdir()
         (kernel/'kernel.json').write_text(json.dumps({'argv':[sys.executable,'-m','ipykernel_launcher','-f','{connection_file}'],'display_name':'Python (RWB final)','language':'python'}))
@@ -18,7 +17,6 @@ if __name__=='__main__':
         client.km=client.create_kernel_manager();client.km.kernel_spec_manager=manager
         client.execute()
     nbformat.validate(nb)
-    # Не публикуем локальный путь к интерпретатору из metadata виджетов.
     nb.metadata.pop('widgets',None)
     nbformat.write(nb,path)
     print(json.dumps({'executed_code_cells':sum(c.cell_type=='code' for c in nb.cells),'errors':0,'notebook':'notebooks/final_solution.ipynb'}))
